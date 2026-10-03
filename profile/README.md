@@ -1,7 +1,7 @@
 # Movavi Video Editor – Professional Video Editing Software for Windows
 
 <p align="center">
-  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4036790/a801fa4d0e4e5101184ec968e4e584fd954ed970/ss_a801fa4d0e4e5101184ec968e4e584fd954ed970.1920x1080.jpg" width="900" alt="Movavi Video Editor">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn72UZEEkv6D5S0nCg-8HEXcn5OJ8yBcM1XNhQIaOheg&s=10" width="200" alt="Movavi Video Editor">
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.movavi.com/video-editor-plus/img/new-features/feature-timeline.jpg" width="900" alt="Movavi Video Editor Timeline">
+  <img src="https://scr.wfcdn.de/27942/Movavi-Video-Editor-1717488830-0-0.jpg" width="900" alt="Movavi Video Editor Timeline">
 </p>
 
 ---
